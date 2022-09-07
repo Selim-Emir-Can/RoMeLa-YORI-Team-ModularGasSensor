@@ -11,7 +11,7 @@ The DFRobot Ozone Sensor (0-10ppm) v1.0 has a VCC pin, GND pin, SDA (Serial Data
 
 * DFRobot_Ozone.py defines the basic structure of the DFRobot_Ozone class, the implementation of the basic methods.
 * get_ozone_data.py reads ozone concentration of one part per billion (PPB) using UART mode.
-More documentation can be found <a href="https://wiki.dfrobot.com/Gravity_IIC_Ozone_Sensor_(0-10ppm)%20SKU_SEN0321" target="_blank">here</a>.
+More documentation can be found <a href="https://wiki.dfrobot.com/Gravity_IIC_Ozone_Sensor_(0-10ppm)%20SKU_SEN0321" target="blank">here</a>.
 
 ## Setup
 * enable I2C connection from settings using sudo raspi-config
