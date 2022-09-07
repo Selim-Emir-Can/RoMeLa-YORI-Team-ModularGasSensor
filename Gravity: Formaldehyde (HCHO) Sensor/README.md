@@ -7,7 +7,7 @@
 
 
 ## Summary
-The Gravity: Formaldehyde (HCHO) Sensor has a VCC pin, GND pin, and a data pin. The sensor has a DAC mode and a UART mode. Setting the Formaldehyde (HCHO) Sensor to DAC mode, using an MCP3008 ADC converter, a Raspberry Pi Zero 2W, and DFRobotHCHOSensor.py voltage data corrolated to ozone concentration can be displayed in real time.
+The Gravity: Formaldehyde (HCHO) Sensor has a VCC pin, GND pin, and a data pin. The sensor has a DAC mode and a UART mode. Setting the Formaldehyde (HCHO) Sensor to DAC mode, using an MCP3008 ADC converter, a Raspberry Pi Zero 2W, and DFRobotHCHOSensor.py voltage data corrolated to ozone concentration can be displayed in real time. More documentation can be found [here](https://www.dfrobot.com/product-1574.html).
 
 ## Setup
 
