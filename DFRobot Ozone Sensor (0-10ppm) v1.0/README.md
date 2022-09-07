@@ -25,4 +25,4 @@ get_ozone_data.py uses the DFRobot_Ozone library can be downloaded using:
 
 sudo apt-get update
 sudo apt-get upgrade
-$ git clone https://github.com/DFRobot/DFRobot_OzoneSensor
+git clone https://github.com/DFRobot/DFRobot_OzoneSensor
