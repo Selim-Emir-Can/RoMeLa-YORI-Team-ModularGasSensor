@@ -1,4 +1,4 @@
-## DHT22 Digital Temperature and Humidity Sensor
+# DHT22 Digital Temperature and Humidity Sensor
 
 ## Table of Contents
 * [Summary](#Summary)
