@@ -3,8 +3,8 @@
 
 * [Summary](#Summary)
 * [Setup](#Setup)
-* [Library Installation](#Library Installation)
-* 
+* [Installation](#Installation)
+
 
 ## Summary
 
@@ -17,7 +17,7 @@ The DFRobot Ozone Sensor (0-10ppm) v1.0 has a 5V voltage source pin, GND pin, SD
 * enable I2C connection from settings using sudo raspi-config
 * connect SDA to GPIO 2, SCL to GPIO 3
 
-## Library Installation
+## Installation
 
 get_ozone_data.py uses the DFRobot_Ozone library can be downloaded using:
 
