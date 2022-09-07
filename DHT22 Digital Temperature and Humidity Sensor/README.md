@@ -8,6 +8,8 @@
 ## Summary
 The DHT22 Digital Temperature and Humidity Sensor has a DAT (Data) pin, a VCC pin, and a GND pin.
 Temp-sensor.py file prints the temperature and hmuidity readings to the terminal every 3 seconds.
+More documentation can be found [here](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf).
+
 
 ## Setup
 * connect GPIO 4 pin to DAT pin
