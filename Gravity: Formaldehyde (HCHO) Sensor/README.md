@@ -23,16 +23,16 @@ The Gravity: Formaldehyde (HCHO) Sensor has a 5V voltage source, GND, and a data
 DFRobotHCHOSensor.py file uses the Adafruit_GPIO and Adafruit_MCP3008 libraries which can be downloaded using:
 
 ### Adafruit_GPIO Library
-sudo apt-get update
-sudo apt-get install build-essential python-pip python-dev python-smbus git
-git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
-cd Adafruit_Python_GPIO
-sudo python setup.py install
+sudo apt-get update <br />
+sudo apt-get install build-essential python-pip python-dev python-smbus git <br />
+git clone https://github.com/adafruit/Adafruit_Python_GPIO.git <br />
+cd Adafruit_Python_GPIO <br />
+sudo python setup.py install <br />
 
 ### Adafruit_MCP3008 Library
-sudo apt-get update
-sudo apt-get install build-essential python-dev python-smbus git
-cd ~
-git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git
-cd Adafruit_Python_MCP3008
-sudo python setup.py install
+sudo apt-get update <br />
+sudo apt-get install build-essential python-dev python-smbus git <br />
+cd ~ <br />
+git clone https://github.com/adafruit/Adafruit_Python_MCP3008.git <br />
+cd Adafruit_Python_MCP3008 <br />
+sudo python setup.py install <br />
