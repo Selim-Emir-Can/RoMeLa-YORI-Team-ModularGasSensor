@@ -13,6 +13,7 @@ More documentation can be found [here](https://www.sparkfun.com/datasheets/Senso
 
 ## Setup
 * connect GPIO 4 pin to DAT pin
+
 Note: The temperature sensor does not work according to specification if measurements are taken within a time interval less then 3 seconds.
 
 
