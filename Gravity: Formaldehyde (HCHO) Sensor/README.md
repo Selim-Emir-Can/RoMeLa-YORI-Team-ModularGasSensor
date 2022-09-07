@@ -3,17 +3,15 @@
 
 * [Summary](#Summary)
 * [Setup](#Setup)
-* [MCP3008_ADC_Converter](#MCP3008_ADC_Converter)
 * [Installation](#Installation)
-* [Adafruit_GPIO](#Adafruit_GPIO)
-* [Adafruit_MCP3008](#Adafruit_MCP3008)
+
 
 ## Summary
 
 The Gravity: Formaldehyde (HCHO) Sensor has a 5V voltage source, GND, and a data pin. Setting the Formaldehyde (HCHO) Sensor to DAC mode, using an MCP3008 ADC converter, a Raspberry Pi Zero 2W, and DFRobotHCHOSensor.py voltage data corrolated to ozone concentration can be displayed in real time.
 
 ## Setup
-### MCP3008_ADC_Converter
+### MCP3008 ADC Converter
 * connect the GPIO 18 pin to Clock (CLK)
 * connect the GPIO 23 pin to Master Input Slave Output (MISO)
 * connect the GPIO 24 pin to Master Output Slave Input (MOSI)
@@ -24,14 +22,14 @@ The Gravity: Formaldehyde (HCHO) Sensor has a 5V voltage source, GND, and a data
 
 DFRobotHCHOSensor.py file uses the Adafruit_GPIO and Adafruit_MCP3008 libraries which can be downloaded using:
 
-### Adafruit_GPIO
+### Adafruit_GPIO Library
 sudo apt-get update
 sudo apt-get install build-essential python-pip python-dev python-smbus git
 git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
 cd Adafruit_Python_GPIO
 sudo python setup.py install
 
-### Adafruit_MCP3008
+### Adafruit_MCP3008 Library
 sudo apt-get update
 sudo apt-get install build-essential python-dev python-smbus git
 cd ~
