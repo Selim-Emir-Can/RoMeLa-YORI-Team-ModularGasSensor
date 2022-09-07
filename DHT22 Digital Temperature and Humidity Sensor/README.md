@@ -1,9 +1,20 @@
 ## DHT22 Digital Temperature and Humidity Sensor
+
+## Table of Contents
+* [Summary](#Summary)
+* [Setup](#Setup)
+* [Installation](#Installation)
+
+## Summary
+The DHT22 Digital Temperature and Humidity Sensor has a DAT (Data) pin, a VCC pin, and a GND pin.
+Temp-sensor.py file prints the temperature and hmuidity readings to the terminal every 3 seconds.
+
+## Setup
+* connect GPIO 4 pin to DAT pin
+Note: The temperature sensor does not work according to specification if measurements are taken within a time interval less then 3 seconds.
+
+
+## Installation
 Temp-sensor.py file uses the Adafruit_DHT library which can be downloaded using:
 
 sudo pip3 install Adafruit_DHT
-
-The temperature sensor uses the GPIO PIN 4, a 5V voltage source, and GND to transmit data to the Raspberry Pi Zero 2W.
-Temp-sensor.py file prints the temperature and hmuidity readings to the terminal every 3 seconds.
-
-The temperature sensor does not work according to specification if measurements are taken within less then 3 seconds from the last one.
