@@ -3,10 +3,10 @@
 
 * [Summary](#Summary)
 * [Setup](#Setup)
-** [MCP3008_ADC_Converter](#MCP3008_ADC_Converter)
+* [MCP3008_ADC_Converter](#MCP3008_ADC_Converter)
 * [Installation](#Installation)
-** [Adafruit_GPIO](#Adafruit_GPIO)
-** [Adafruit_MCP3008](#Adafruit_MCP3008)
+* [Adafruit_GPIO](#Adafruit_GPIO)
+* [Adafruit_MCP3008](#Adafruit_MCP3008)
 
 ## Summary
 
