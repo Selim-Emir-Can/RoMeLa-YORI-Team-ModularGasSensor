@@ -119,10 +119,6 @@ class SGP40:
             crc = CRC_TABLE[crc]
         return crc
     
-import numpy as np
-import csv
-
-arr = np.zeros(1)
 
 if __name__ == '__main__':
     sgp = SGP40()
@@ -130,7 +126,6 @@ if __name__ == '__main__':
     try:
         while(True):
             print("Raw Gas: ", sgp.raw())
-            print("measureRaw Gas: %d" %arr[np.size(arr)-1])
             time.sleep(1)
 
     except KeyboardInterrupt:

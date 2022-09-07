@@ -19,7 +19,7 @@ More documentation can be found [here](https://wiki.dfrobot.com/Gravity_IIC_Ozon
 * connect SDA to GPIO 2, SCL to GPIO 3
 
 ## Installation
-get_ozone_data.py uses the DFRobot_Ozone library can be downloaded using:
+get_ozone_data.py uses the DFRobot_Ozone library which can be downloaded using:
 
 ### DFRobot_Ozone Library
 sudo apt-get update <br />
