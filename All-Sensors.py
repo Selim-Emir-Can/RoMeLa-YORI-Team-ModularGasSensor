@@ -171,7 +171,7 @@ rows, cols = (1, 18) # 1 x 16 vector for two ADC conververters of size 8 and 2 o
 arr = np.zeros((rows, cols))
 
 def createCSVfile(arr):
-    path_to_csv_file = '/home/pi/DFRobot_OzoneSensor-master/python/raspberrypi/examples/AllSensor.csv'
+    path_to_csv_file = '/home/pi/DFRobot_OzoneSensor-master/python/raspberrypi/examples/AllSensor.csv' #path to csv file
     f = open(path_to_csv_file, 'w')
     writer = csv.writer(f)
     writer.writerows(arr)
