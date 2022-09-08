@@ -1,4 +1,4 @@
-# (NOT FINISHED) Modular Gas Sensor
+# Modular Gas Sensor
 
 ## Table of Contents
 * [Summary](#Summary)
@@ -8,12 +8,15 @@
 
 ## Summary
 The Modular Gas Sensor uses 17 gas sensors that consist of:
-li>DHT22 Temperature and Humidity Sensor</li>
-<li>SGP40 VOC (Volatile Organic Compound) Sensor (I2C)</li>
+<li>DFRobot CO2 Sensor V1.2</li>
+<li>DHT22 Temperature and Humidity Sensor</li>
 <li>DFRobot Ozone Sensor (0-10ppm) v1.0 (I2C)</li>
 <li>DFRobot Gravity Formaldehyde (HCHO) Sensor (DAC)</li>
+<li>SGP40 VOC (Volatile Organic Compound) Sensor (I2C)</li>
+<li>Figaro TGS2611 Air Contaminants Sensor with drive board module</li>
+<li>CJMCU-1100 MS-1100 VOC Gas Sensor Module Formaldehyde Benzene Gas Induction</li>
+<li>MH-Z14 NDIR CO2 Infrared Sensor Module MH-Z14A Carbon Dioxide Sensor for CO2 (0-5000ppm, Serial Spot PWM)</li>
 <li>MQ-2, MQ-3, MQ-4, MQ-5, MQ-6, MQ-7, MQ-8, MQ-9, MQ-135 Smoke Detection liquefied Methane Gas Sensor Module</li>
-<li> TO BE FINISHED</li>
 
 ## Setup
 
