@@ -37,4 +37,4 @@ Modular Gas Sensor uses 17 gas sensors within 4 layers:
  <li>SGP40 VOC (Volatile Organic Compound) Sensor (I2C)</li>
 
 ## Setup
-For 3D printing a nozzle with a 6mm diameter was used at 30% infill for all parts. Slic3r was the software used to 3D print the CAD files.
+For 3D printing a nozzle with a 6mm diameter was used at 30% infill for all parts.
