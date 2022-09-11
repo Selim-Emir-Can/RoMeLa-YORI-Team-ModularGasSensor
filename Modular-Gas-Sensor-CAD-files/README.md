@@ -3,7 +3,6 @@
 ## Table of Contents
 * [Summary](#Summary)
 * [Setup](#Setup)
-* [Installation](#Installation)
 
 
 ## Summary
