@@ -37,4 +37,4 @@ Modular Gas Sensor uses 17 gas sensors within 4 layers:
  <li>SGP40 VOC (Volatile Organic Compound) Sensor (I2C)</li>
 
 ## Setup
-For 3D printing a nozzle with a 6mm diameter was used at 30% infill for all parts.
+For 3D printing a nozzle with a 6mm diameter was used at 30% infill for all parts. Flexible coolant legs were bought from [here](https://www.digikey.com/en/products/detail/sparkfun-electronics/TOL-12783/5824155?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax:%20Smart%20Shopping_Product_Zombie%20SKUS&utm_term=&utm_content=General&gclid=Cj0KCQjw6_CYBhDjARIsABnuSzqPX2GuNUt2bYVIlHV3N7wA1GGKaSdiUak0ngwGREQYPdxWJJmBYF0aAgo9EALw_wcB).
