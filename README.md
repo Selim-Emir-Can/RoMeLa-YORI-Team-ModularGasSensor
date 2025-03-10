@@ -18,7 +18,7 @@ The Modular Gas Sensor uses 17 gas sensors that consist of:
 <li>MH-Z14 NDIR CO2 Infrared Sensor Module MH-Z14A Carbon Dioxide Sensor for CO2 (0-5000ppm, Serial Spot PWM)</li>
 <li>MQ-2, MQ-3, MQ-4, MQ-5, MQ-6, MQ-7, MQ-8, MQ-9, MQ-135 Smoke Detection liquefied Methane Gas Sensor Module</li>
 
-The data gathered from the sensors listed above during the cooking process will constitute a chemical signature which will be used to analyze the cumulative gas concentration with respect to time. The gas sensor shell stores these sensors, and the hardware which extracts and processes data which includes a custom PCB and a Raspberry Pi Zero 2W. All components of the gas sensor shell are modular, meaning it can be modified to store any amount of gas sensors if the necessary parts are made. More visual explanation can be found [here]([https://selim-emir-can.github.io/GasSensor.html](https://selim-e-can.github.io/GasSensor.html).
+The data gathered from the sensors listed above during the cooking process will constitute a chemical signature which will be used to analyze the cumulative gas concentration with respect to time. The gas sensor shell stores these sensors, and the hardware which extracts and processes data which includes a custom PCB and a Raspberry Pi Zero 2W. All components of the gas sensor shell are modular, meaning it can be modified to store any amount of gas sensors if the necessary parts are made. More visual explanation can be found [here](https://selim-e-can.github.io/GasSensor.html).
 
 ## Setup
 
